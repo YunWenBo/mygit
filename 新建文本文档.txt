@@ -11,4 +11,4 @@ Logstash:数据抓取
 kibana：数据查询
 
 
-[2019-08-18T10:35:42,108][INFO ][o.e.d.z.ZenDiscovery     ] [node-002] failed to send join request to master [{node-001}{JBSia2YwTzi6L610e8Jeww}{rwW24DkTT7OWnletuOK0Iw}{127.0.0.1}{127.0.0.1:9300}], reason [RemoteTransportException[[node-001][127.0.0.1:9300][internal:discovery/zen/join]]; nested: IllegalArgumentException[can't add node {node-002}{JBSia2YwTzi6L610e8Jeww}{Hxvx2pLjTiCPsts9oU6Kkw}{127.0.0.1}{127.0.0.1:9301}, found existing node {node-001}{JBSia2YwTzi6L610e8Jeww}{rwW24DkTT7OWnletuOK0Iw}{127.0.0.1}{127.0.0.1:9300} with the same id but is a different node instance]; ]
+
